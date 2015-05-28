@@ -9,10 +9,10 @@ Temp
 *.pidb
 *.userprefs
 
-Github_Tester/Library/cache/*
-Github_Tester/Library/metadata/*
-Github_Tester/Library/previews/*
-Github_Tester/Library/ScriptAssemblies/*
+Github_Tester\Library\cache\*
+Github_Tester\Library\metadata\*
+Github_Tester\Library\previews\*
+Github_Tester\Library\ScriptAssemblies\*
 
 AnnotationManager
 assetDatabase3
